@@ -1,2 +1,2 @@
-# My-First-Repository
-This is my first repository, hello world!
+# This is the README file
+This is in my first repository, hello world!
